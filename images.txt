@@ -8,3 +8,4 @@ goharbor/harbor-jobservice:v2.6.1
 goharbor/redis-photon:v2.6.1
 goharbor/nginx-photon:v2.6.1
 goharbor/chartmuseum-photon:v2.6.1
+openjdk:8-jre-alpine
