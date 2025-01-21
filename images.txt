@@ -15,3 +15,4 @@ k8s.gcr.io/heapster-amd64:v1.5.4
 k8s.gcr.io/heapster-grafana-amd64:v5.0.4
 k8s.gcr.io/heapster-influxdb-amd64:v1.5.2
 filebeat:7.4.0
+kubernetesui/dashboard:v2.7.0
