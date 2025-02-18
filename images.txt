@@ -16,3 +16,11 @@ k8s.gcr.io/heapster-grafana-amd64:v5.0.4
 k8s.gcr.io/heapster-influxdb-amd64:v1.5.2
 kubernetesui/dashboard:v2.7.0
 kubernetesui/metrics-scraper:v1.0.8
+langgenius/dify-api:1.0.0
+langgenius/dify-web:1.0.0
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.10
+langgenius/dify-plugin-daemon:0.0.1-local
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
