@@ -1,1 +1,1 @@
-opensec/mobile-security-framework-mobsf:latest
+opensecurity/mobile-security-framework-mobsf:latest
