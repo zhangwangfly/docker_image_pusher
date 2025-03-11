@@ -1,1 +1,1 @@
-xprobe/xinference:latest
+opensec/mobile-security-framework-mobsf:latest
