@@ -1,1 +1,1 @@
-structurizr/onpremises:v1
+structurizr/onpremises
