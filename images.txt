@@ -1,1 +1,1 @@
-opensecurity/mobile-security-framework-mobsf:latest
+structurizr/onpremises:v1
