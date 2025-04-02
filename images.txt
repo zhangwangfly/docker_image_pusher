@@ -1,1 +1,1 @@
-structurizr/onpremises
+langgenius/dify-api:1.1.3
