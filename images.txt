@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2022-01-04T07-41-07Z
+localai/localai:latest-aio-cpu
