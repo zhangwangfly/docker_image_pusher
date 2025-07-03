@@ -1,1 +1,1 @@
-localai/localai:latest-aio-cpu
+localai/localai:latest-gpu-nvidia-cuda-12
