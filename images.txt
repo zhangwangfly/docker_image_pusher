@@ -1,1 +1,1 @@
-registry.k8s.io/metrics-server/metrics-server:v0.3.7
+nginx:1.25.3
